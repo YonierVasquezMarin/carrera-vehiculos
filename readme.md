@@ -1,3 +1,3 @@
 # Descripcion
 
-Proyecto python acerca de carreras de vehiculos. Trabajo para la asignatura de software 2.
+Proyecto en python sobre carreras de vehiculos en una competición. Esta es una tarae para la asignatura de software 2.
